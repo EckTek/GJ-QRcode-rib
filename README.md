@@ -1,1 +1,2 @@
-# GJ-QRcode-rib
+# Rib de l'église Chapon :
+FRXXX
